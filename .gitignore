@@ -1,0 +1,12 @@
+## Pastas de compilação do .NET (binários)
+[Db]in/
+[Oo]bj/
+
+## Arquivos do VS Code e Visual Studio
+.vscode/
+.vs/
+
+## Arquivos de usuário e logs
+*.user
+*.suo
+*.log
